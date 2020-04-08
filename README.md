@@ -1,1 +1,1 @@
-# devmind-test-basic
+# codetasty-test-basic
